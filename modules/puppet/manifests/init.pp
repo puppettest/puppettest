@@ -19,4 +19,5 @@ class puppet {
 		hour => '*',
 		minute => '*/10',
 	}
-#}
+
+}
