@@ -1,4 +1,4 @@
-SSH = 'ssh -i ~/.ssh/id_sipda -l av'
+SSH = 'ssh -i ~/.ssh/id_rsa -l av'
 
 desc "Run Puppet on ENV['CLIENT']"
 task :apply do
